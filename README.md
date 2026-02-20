@@ -465,3 +465,7 @@
 |460|[택시 합승 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)|Lv.3|2025.10.20|
 
 ### 백준
+|번호|문제 이름|레벨|문제 푼 날짜|
+|:---:|:---|:---:|:---:|
+|1|[연구](https://www.acmicpc.net/problem/14502)|골드4|2026.02.20|
+|2|[RGC거리](https://www.acmicpc.net/problem/1149)|실버1|2026.02.20|
