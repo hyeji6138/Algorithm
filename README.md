@@ -470,3 +470,4 @@
 |1|[연구](https://www.acmicpc.net/problem/14502)|골드4|2026.02.20|
 |2|[RGC거리](https://www.acmicpc.net/problem/1149)|실버1|2026.02.20|
 |3|[케빈 베이컨의 6단 법칙](https://www.acmicpc.net/problem/1389)|실버1|2026.02.23|
+|4|[미로 탐색](https://www.acmicpc.net/problem/2178)|실버1|2026.02.24|
