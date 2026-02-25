@@ -471,3 +471,4 @@
 |2|[RGC거리](https://www.acmicpc.net/problem/1149)|실버1|2026.02.20|
 |3|[케빈 베이컨의 6단 법칙](https://www.acmicpc.net/problem/1389)|실버1|2026.02.23|
 |4|[미로 탐색](https://www.acmicpc.net/problem/2178)|실버1|2026.02.24|
+|5|[그림](https://www.acmicpc.net/problem/1926)|실버1|2026.02.25|
