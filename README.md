@@ -467,8 +467,9 @@
 ### 백준
 |번호|문제 이름|레벨|문제 푼 날짜|
 |:---:|:---|:---:|:---:|
-|1|[연구](https://www.acmicpc.net/problem/14502)|골드4|2026.02.20|
-|2|[RGC거리](https://www.acmicpc.net/problem/1149)|실버1|2026.02.20|
-|3|[케빈 베이컨의 6단 법칙](https://www.acmicpc.net/problem/1389)|실버1|2026.02.23|
-|4|[미로 탐색](https://www.acmicpc.net/problem/2178)|실버1|2026.02.24|
-|5|[그림](https://www.acmicpc.net/problem/1926)|실버1|2026.02.25|
+|1|[14502 - 연구](https://www.acmicpc.net/problem/14502)|골드4|2026.02.20|
+|2|[1149 - RGC거리](https://www.acmicpc.net/problem/1149)|실버1|2026.02.20|
+|3|[1389 - 케빈 베이컨의 6단 법칙](https://www.acmicpc.net/problem/1389)|실버1|2026.02.23|
+|4|[2178 - 미로 탐색](https://www.acmicpc.net/problem/2178)|실버1|2026.02.24|
+|5|[1926 - 그림](https://www.acmicpc.net/problem/1926)|실버1|2026.02.25|
+|6|[1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실버1|2026.02.27|
