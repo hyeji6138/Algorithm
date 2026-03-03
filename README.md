@@ -473,3 +473,4 @@
 |4|[2178 - 미로 탐색](https://www.acmicpc.net/problem/2178)|실버1|2026.02.24|
 |5|[1926 - 그림](https://www.acmicpc.net/problem/1926)|실버1|2026.02.25|
 |6|[1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실버1|2026.02.27|
+|7|[1806 - 부분합](https://www.acmicpc.net/problem/1806)|골드4|2026.03.02|
