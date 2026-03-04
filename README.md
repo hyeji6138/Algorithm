@@ -475,3 +475,4 @@
 |6|[1697 - 숨바꼭질](https://www.acmicpc.net/problem/1697)|실버1|2026.02.27|
 |7|[1806 - 부분합](https://www.acmicpc.net/problem/1806)|골드4|2026.03.02|
 |8|[2110 - 공유기 설치](https://www.acmicpc.net/problem/2110)|골드4|2026.03.03|
+|10|[1932 - 정수 삼각형](https://www.acmicpc.net/problem/1932)|실버1|2026.03.04|
