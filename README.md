@@ -479,3 +479,4 @@
 |11|[11399 - ATM](https://www.acmicpc.net/problem/11399)|실버4|2026.03.05|
 |12|[11053 - 가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)|실버2|2026.03.06|
 |13|[10816 - 숫자 카드 2](https://www.acmicpc.net/problem/10816)|실버4|2026.03.09|
+|14|[18870 - 좌표 압축](https://www.acmicpc.net/problem/18870)|실버2|2026.03.10|
