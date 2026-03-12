@@ -481,3 +481,4 @@
 |13|[10816 - 숫자 카드 2](https://www.acmicpc.net/problem/10816)|실버4|2026.03.09|
 |14|[18870 - 좌표 압축](https://www.acmicpc.net/problem/18870)|실버2|2026.03.10|
 |15|[18352 - 특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352)|실버2|2026.03.11|
+|16|[13549 - 숨바꼭질 3](https://www.acmicpc.net/problem/13549)|골드5|2026.03.12|
