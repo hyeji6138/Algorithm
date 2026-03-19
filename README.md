@@ -485,3 +485,4 @@
 |17|[12851 - 숨바꼭질 2](https://www.acmicpc.net/problem/12851)|골드4|2026.03.16|
 |18|[13913 - 숨바꼭질 4](https://www.acmicpc.net/problem/13913)|골드4|2026.03.17|
 |19|[9019 - DSLR](https://www.acmicpc.net/problem/9019)|골드4|2026.03.18|
+|20|[1504 - 특정한 퇴단 경로](https://www.acmicpc.net/problem/1504)|골드4|2026.03.19|
