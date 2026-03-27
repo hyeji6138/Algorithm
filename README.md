@@ -490,3 +490,6 @@
 |22|[1717 - 집합의 표현](https://www.acmicpc.net/problem/1717)|골드5|2026.03.25|
 |23|[1976 - 여행 가자](https://www.acmicpc.net/problem/1976)|골드4|2026.03.26|
 |24|[1197 - 최소 스패닝 트리](https://www.acmicpc.net/problem/1197)|골드4|2026.03.27|
+|25|[1157 - 단어 공부](https://www.acmicpc.net/problem/1157)|브론즈1|2026.03.27|
+|26|[1620 - 나는야 포켓몬 마스터 이다](https://www.acmicpc.net/problem/1620)|실버4|2026.03.27|
+|27|[14425 - 문자열 집합](https://www.acmicpc.net/problem/14425)|실버4|2026.03.27|
