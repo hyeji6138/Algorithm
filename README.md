@@ -493,3 +493,4 @@
 |25|[1157 - 단어 공부](https://www.acmicpc.net/problem/1157)|브론즈1|2026.03.27|
 |26|[1620 - 나는야 포켓몬 마스터 이다](https://www.acmicpc.net/problem/1620)|실버4|2026.03.27|
 |27|[14425 - 문자열 집합](https://www.acmicpc.net/problem/14425)|실버4|2026.03.27|
+|28|[1269 - 대칭 차집합](https://www.acmicpc.net/problem/14269)|실버4|2026.03.30|
