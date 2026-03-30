@@ -5,10 +5,29 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.StringTokenizer;
 
 public class Solution_10816 {
-	public static void main(String[] args) throws NumberFormatException, IOException { // 배열
+	public static void main(String[] args) throws NumberFormatException, IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int N = Integer.parseInt(br.readLine());
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		Map<Integer, Integer> card = new HashMap<>();
+		for (int i = 0; i < N; i++) {
+			int value = Integer.parseInt(st.nextToken());
+			card.put(value, card.getOrDefault(value, 0) + 1);
+		}
+		int M = Integer.parseInt(br.readLine());
+		st = new StringTokenizer(br.readLine());
+		StringBuilder sb = new StringBuilder();
+		for (int i = 0; i < M; i++) {
+			sb.append(card.getOrDefault(Integer.parseInt(st.nextToken()), 0)).append(" ");
+		}
+		System.out.println(sb);
+	}
+
+	public static void solution() throws NumberFormatException, IOException { // 배열
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int MAX_SIZE = 20_000_001;
 		int SIZE = 10_000_000;
