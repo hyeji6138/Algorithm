@@ -494,3 +494,6 @@
 |26|[1620 - 나는야 포켓몬 마스터 이다](https://www.acmicpc.net/problem/1620)|실버4|2026.03.27|
 |27|[14425 - 문자열 집합](https://www.acmicpc.net/problem/14425)|실버4|2026.03.27|
 |28|[1269 - 대칭 차집합](https://www.acmicpc.net/problem/14269)|실버4|2026.03.30|
+|29|[1546 - 평균](https://www.acmicpc.net/problem/1546)|브론즈1|2026.03.31|
+|30|[1037 - 약수](https://www.acmicpc.net/problem/1037)|브론즈1|2026.03.31|
+|31|[10814 - 나이순 정렬](https://www.acmicpc.net/problem/10814)|실버5|2026.03.31|
