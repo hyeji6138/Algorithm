@@ -497,3 +497,6 @@
 |29|[1546 - 평균](https://www.acmicpc.net/problem/1546)|브론즈1|2026.03.31|
 |30|[1037 - 약수](https://www.acmicpc.net/problem/1037)|브론즈1|2026.03.31|
 |31|[10814 - 나이순 정렬](https://www.acmicpc.net/problem/10814)|실버5|2026.03.31|
+|32|[1181 - 단어 정렬](https://www.acmicpc.net/problem/1181)|실버5|2026.03.31|
+|33|[11651 - 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|실버5|2026.03.31|
+|34|[1758 - 알바생 강호](https://www.acmicpc.net/problem/1758)|실버4|2026.03.31|
