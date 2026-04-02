@@ -500,3 +500,4 @@
 |32|[1181 - 단어 정렬](https://www.acmicpc.net/problem/1181)|실버5|2026.03.31|
 |33|[11651 - 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|실버5|2026.03.31|
 |34|[1758 - 알바생 강호](https://www.acmicpc.net/problem/1758)|실버4|2026.03.31|
+|35|[10825 - 국영수](https://www.acmicpc.net/problem/10825)|실버4|2026.04.02|
