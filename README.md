@@ -501,3 +501,7 @@
 |33|[11651 - 좌표 정렬하기 2](https://www.acmicpc.net/problem/11651)|실버5|2026.03.31|
 |34|[1758 - 알바생 강호](https://www.acmicpc.net/problem/1758)|실버4|2026.03.31|
 |35|[10825 - 국영수](https://www.acmicpc.net/problem/10825)|실버4|2026.04.02|
+|36|[1431 - 시리얼 번호](https://www.acmicpc.net/problem/1431)|실버3|2026.04.06|
+|37|[4999 - 아!](https://www.acmicpc.net/problem/4999)|브론즈5|2026.04.06|
+|38|[2108 - 통계학](https://www.acmicpc.net/problem/2108)|실버2|2026.04.06|
+|39|[1076 - 저항](https://www.acmicpc.net/problem/1076)|브론즈2|2026.04.06|
