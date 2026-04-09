@@ -505,3 +505,6 @@
 |37|[4999 - 아!](https://www.acmicpc.net/problem/4999)|브론즈5|2026.04.06|
 |38|[2108 - 통계학](https://www.acmicpc.net/problem/2108)|실버2|2026.04.06|
 |39|[1076 - 저항](https://www.acmicpc.net/problem/1076)|브론즈2|2026.04.06|
+|40|[1026 - 보물](https://www.acmicpc.net/problem/1026)|실버4|2026.04.09|
+|41|[1259 - 팰린드롬수](https://www.acmicpc.net/problem/1259)|브론즈1|2026.04.09|
+|42|[4153 - 직각삼각형](https://www.acmicpc.net/problem/4153)|브론즈3|2026.04.09|
