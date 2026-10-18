@@ -524,3 +524,5 @@
 |8|[1402 - 약수 구하기](https://jungol.co.kr/problem/1402)|브론즈4|2026.10.18|
 |9|[2809 - 약수](https://jungol.co.kr/problem/2809)|브론즈3|2026.10.18|
 |10|[1658 - 최대공약수와최소공배수](https://jungol.co.kr/problem/1658)|브론즈3|2026.10.18|
+|11|[1002 - 최대공약수,최소공배수](https://jungol.co.kr/problem/1002)|브론즈3|2026.10.18|
+|12|[1002 - 연필 공장](https://jungol.co.kr/problem/1002)|실버5|2026.10.18|
