@@ -521,3 +521,6 @@
 |5|[1692 - 곱셈](https://jungol.co.kr/problem/1692)|브론즈4|2026.10.18|
 |6|[1430 - 숫자의 개수](https://jungol.co.kr/problem/1430)|브론즈4|2026.10.18|
 |7|[1071 - 약수와 배수](https://jungol.co.kr/problem/1071)|브론즈5|2026.10.18|
+|8|[1402 - 약수 구하기](https://jungol.co.kr/problem/1402)|브론즈4|2026.10.18|
+|9|[2809 - 약수](https://jungol.co.kr/problem/2809)|브론즈3|2026.10.18|
+|10|[1658 - 최대공약수와최소공배수](https://jungol.co.kr/problem/1658)|브론즈3|2026.10.18|
