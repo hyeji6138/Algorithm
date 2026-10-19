@@ -526,3 +526,11 @@
 |10|[1658 - 최대공약수와최소공배수](https://jungol.co.kr/problem/1658)|브론즈3|2026.10.18|
 |11|[1002 - 최대공약수,최소공배수](https://jungol.co.kr/problem/1002)|브론즈3|2026.10.18|
 |12|[1002 - 연필 공장](https://jungol.co.kr/problem/1002)|실버5|2026.10.18|
+|13|[1303 - 숫자사각형1](https://jungol.co.kr/problem/1303)|브론즈5|2026.10.19|
+|14|[1856 - 숫자사각형2](https://jungol.co.kr/problem/1856)|브론즈4|2026.10.19|
+|15|[1304 - 숫자사각형3](https://jungol.co.kr/problem/1304)|브론즈4|2026.10.19|
+|16|[5931 - 숫자사각형4_1](https://jungol.co.kr/problem/5931)|브론즈5|2026.10.19|
+|17|[5932 - 숫자사각형4_2](https://jungol.co.kr/problem/5932)|브론즈5|2026.10.19|
+|18|[5933 - 숫자사각형4_3](https://jungol.co.kr/problem/5933)|브론즈5|2026.10.19|
+|19|[1307 - 문자사각형1](https://jungol.co.kr/problem/1307)|브론즈5|2026.10.19|
+|20|[1314 - 문자사각형2](https://jungol.co.kr/problem/1314)|브론즈4|2026.10.19|
