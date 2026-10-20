@@ -534,3 +534,5 @@
 |18|[5933 - 숫자사각형4_3](https://jungol.co.kr/problem/5933)|브론즈5|2026.10.19|
 |19|[1307 - 문자사각형1](https://jungol.co.kr/problem/1307)|브론즈5|2026.10.19|
 |20|[1314 - 문자사각형2](https://jungol.co.kr/problem/1314)|브론즈4|2026.10.19|
+|21|[1338 - 문자삼각형1](https://jungol.co.kr/problem/1338)|브론즈4|2026.10.20|
+|22|[1339 - 문자삼각형2](https://jungol.co.kr/problem/1339)|브론즈4|2026.10.20|
