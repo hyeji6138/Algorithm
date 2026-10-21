@@ -536,3 +536,7 @@
 |20|[1314 - 문자사각형2](https://jungol.co.kr/problem/1314)|브론즈4|2026.10.19|
 |21|[1338 - 문자삼각형1](https://jungol.co.kr/problem/1338)|브론즈4|2026.10.20|
 |22|[1339 - 문자삼각형2](https://jungol.co.kr/problem/1339)|브론즈4|2026.10.20|
+|23|[1009 - 각 자리수의 역과 합](https://jungol.co.kr/problem/1009)|브론즈4|2026.10.21|
+|24|[2811 - 소수와 합성수](https://jungol.co.kr/problem/2811)|브론즈4|2026.10.21|
+|25|[1901 - 소수 구하기](https://jungol.co.kr/problem/1901)|브론즈1|2026.10.21|
+|26|[1740 - 소수](https://jungol.co.kr/problem/1740)|브론즈2|2026.10.21|
