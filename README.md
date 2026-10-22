@@ -540,3 +540,4 @@
 |24|[2811 - 소수와 합성수](https://jungol.co.kr/problem/2811)|브론즈4|2026.10.21|
 |25|[1901 - 소수 구하기](https://jungol.co.kr/problem/1901)|브론즈1|2026.10.21|
 |26|[1740 - 소수](https://jungol.co.kr/problem/1740)|브론즈2|2026.10.21|
+|27|[2813 - 소수의 개수](https://jungol.co.kr/problem/2813)|브론즈2|2026.10.22|
