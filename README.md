@@ -543,3 +543,5 @@
 |27|[2813 - 소수의 개수](https://jungol.co.kr/problem/2813)|브론즈2|2026.10.22|
 |28|[2814 - 이진수](https://jungol.co.kr/problem/2814)|브론즈3|2026.10.23|
 |29|[1534 - 10진수를 2,8,16진수로](https://jungol.co.kr/problem/1534)|브론즈1|2026.10.23|
+|30|[3106 - 진법 변환](https://jungol.co.kr/problem/3106)|실버4|2026.10.27|
+|31|[4977 - 실수의 이진수](https://jungol.co.kr/problem/4977)|실버5|2026.10.27|
