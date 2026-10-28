@@ -545,3 +545,6 @@
 |29|[1534 - 10진수를 2,8,16진수로](https://jungol.co.kr/problem/1534)|브론즈1|2026.10.23|
 |30|[3106 - 진법 변환](https://jungol.co.kr/problem/3106)|실버4|2026.10.27|
 |31|[4977 - 실수의 이진수](https://jungol.co.kr/problem/4977)|실버5|2026.10.27|
+|32|[1523 - 별삼각형1](https://jungol.co.kr/problem/1523)|브론즈4|2026.10.28|
+|33|[5934 - 별삼각형2](https://jungol.co.kr/problem/5934)|브론즈4|2026.10.28|
+|34|[1329 - 별삼각형3](https://jungol.co.kr/problem/1329)|브론즈4|2026.10.28|
